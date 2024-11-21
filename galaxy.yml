@@ -12,7 +12,7 @@ tags:
   - windows
 dependencies:
   ansible.windows: ">=1.0.0,<3.0.0"
-repository: https://github.com/ansible-collections/community.windows
+repository: https://github.com/NurPech/community.windows
 documentation: https://docs.ansible.com/ansible/devel/collections/community/windows
 homepage: https://github.com/ansible-collections/community.windows
 issues: https://github.com/ansible-collections/community.windows/issues
